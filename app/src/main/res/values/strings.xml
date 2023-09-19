@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">USGS</string>
+    <string name="api_key">your_api_key</string>
+</resources>
