@@ -1,4 +1,4 @@
-# Today_Earthquakes_USGS_API
+# Today earthquakes using Ktor-kotlin-jetpack compose and usgs.gov api
 
 <div align="center">
   <div style="display: flex;">
