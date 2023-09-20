@@ -1,4 +1,4 @@
-# Today earthquakes using Ktor-kotlin-jetpack compose and usgs.gov api
+# Today earthquakes using Kotlin-JetpackCompose-Ktor and usgs.gov api
 
 <div align="center">
   <div style="display: flex;">
