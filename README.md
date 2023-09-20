@@ -1,2 +1,5 @@
 # Today_Earthquakes_USGS_API
-![Screenshot]([Screenshot 2023-09-19 232625.png](https://raw.githubusercontent.com/3owa/Today_Earthquakes_USGS_API/master/Screenshot%202023-09-19%20232625.png)
+
+<div align="center">
+  <div style="display: flex;">
+<img src="https://github.com/3owa/Today_Earthquakes_USGS_API/blob/master/Screenshot%202023-09-19%20232625.png" width="200dp"/>
