@@ -2,5 +2,5 @@
 
 <div align="center">
   <div style="display: flex;">
-[![](https://img.youtube.com/vi/Dz_hKK4aYX8/0.jpg)](https://www.youtube.com/watch?v=Dz_hKK4aYX8)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi//Dz_hKK4aYX8/0.jpg)](http://www.youtube.com/watch?v=/Dz_hKK4aYX8 "Video Title")
 
